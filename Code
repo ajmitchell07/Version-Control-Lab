@@ -1,4 +1,0 @@
-name = input(prompt="What is your name")
-food = input(prompt="Whats your favorite food")
-
-print(f"Hi {name}, your favorite food is {food}.")
